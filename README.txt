@@ -6,4 +6,4 @@ multiple components coded in C++. Movement values for these components need to b
 set using Unreal Engine on startup. Gameplay consists of a short obstacle course
 with various obstacles that move up and down, move side to side, and rotate.
 
-Controls: WASD for movement
+Controls: WASD for movement, Space Bar to jump
